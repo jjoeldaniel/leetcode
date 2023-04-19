@@ -2,6 +2,6 @@
 
 my half assed solutions
 
-e - easy
-m - medium
-h - hard
+* e - easy
+* m - medium
+* h - hard
