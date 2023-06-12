@@ -8,5 +8,5 @@ class Solution:
                     break
             else:
                 r += 1
-    
+
         return r

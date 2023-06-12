@@ -10,7 +10,6 @@ class Solution:
         res = []
 
         while q:
-
             t = []
 
             # iterate through level

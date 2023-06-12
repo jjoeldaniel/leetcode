@@ -6,7 +6,7 @@ class Solution:
             if nums[i] in m:
                 if i - m[nums[i]] <= k:
                     return True
-            
+
             m[nums[i]] = i
-        
+
         return False
